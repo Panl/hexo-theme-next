@@ -603,7 +603,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: 0MW8n70MvCHQPoTIi50R990n-gzGzoHsz
   app_key: zUzXNHPfUl0vhmFJGIFeq32O
   # LeanCloud Counter Security Plugin (beta, currently under the testing).
